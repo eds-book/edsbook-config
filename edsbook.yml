@@ -4,13 +4,18 @@ project:
   license:
     content: CC-BY-4.0
     code: MIT
-    
+  downloads:
+    - file: ./edsbook_logo-black.png
+      title: logo black
+    - file: ./edsbook_logo-white.png
+      title: logo white
+
 site:
   template: book-theme
   options:
     favicon: https://raw.githubusercontent.com/eds-book/edsbook-config/main/favicon.ico
-#    logo: https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook_logo-black.png
-#    logo_dark: https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook_logo-white.png
+    logo: https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook_logo-black.png
+    logo_dark: https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook_logo-white.png
     logo_text: EDS book
 
   nav:
