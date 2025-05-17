@@ -4,13 +4,6 @@ project:
   license:
     content: CC-BY-4.0
     code: MIT
-  downloads:
-    - file: _static/edsbook_logo-black.png
-      title: logo black
-    - file: _static/edsbook_logo-white.png
-      title: logo white
-    - file: _static/favicon.png
-      title: favicon
 
 site:
   template: book-theme
