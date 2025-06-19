@@ -17,27 +17,27 @@ site:
 
   nav:
     - title: About
-      url: https://eds-book.github.io/about
+      url: https://edsbook.org/about
     - title: Gallery
-      url: https://eds-book.github.io/gallery
+      url: https://edsbook.org/gallery
     - title: Contribute
-      url: https://eds-book.github.io/contribute
+      url: https://edsbook.org/contribute
     - title: Guidelines
       children:
         - title: Guide for Authors
-          url: https://eds-book.github.io/guidelines-authors
+          url: https://edsbook.org/guidelines-authors
         - title: Guide for Reviewers
-          url: https://eds-book.github.io/guidelines-reviewers
+          url: https://edsbook.org/guidelines-reviewers
         - title: Guide for Editors
-          url: https://eds-book.github.io/guidelines-editors
+          url: https://edsbook.org/guidelines-editors
         - title: Guide for Editor in Chief
-          url: https://eds-book.github.io/guidelines-eic
+          url: https://edsbook.org/guidelines-eic
         - title: Guide for Community
-          url: https://eds-book.github.io/guidelines-community
+          url: https://edsbook.org/guidelines-community
     - title: Community
-      url: https://eds-book.github.io/community
+      url: https://edsbook.org/community
     - title: Cite
-      url: https://eds-book.github.io/cite
+      url: https://edsbook.org/cite
   actions:
     - title: Home
-      url: https://eds-book.github.io
+      url: https://edsbook.org
