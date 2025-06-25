@@ -19,37 +19,26 @@ site:
   nav:
     - title: About
       url: https://edsbook.org/about
-      open_in_same_tab: true
     - title: Gallery
       url: https://edsbook.org/gallery
-      open_in_same_tab: true
     - title: Contribute
       url: https://edsbook.org/contribute
-      open_in_same_tab: true
     - title: Guidelines
       children:
         - title: Guide for Authors
           url: https://edsbook.org/guidelines-authors
-          open_in_same_tab: true
         - title: Guide for Reviewers
           url: https://edsbook.org/guidelines-reviewers
-          open_in_same_tab: true
         - title: Guide for Editors
           url: https://edsbook.org/guidelines-editors
-          open_in_same_tab: true
         - title: Guide for Editor in Chief
           url: https://edsbook.org/guidelines-eic
-          open_in_same_tab: true
         - title: Guide for Community
           url: https://edsbook.org/guidelines-community
-          open_in_same_tab: true
     - title: Community
       url: https://edsbook.org/community
-      open_in_same_tab: true
     - title: Cite
       url: https://edsbook.org/cite
-      open_in_same_tab: true
   actions:
     - title: Home
       url: https://edsbook.org
-      open_in_same_tab: true
